@@ -229,6 +229,32 @@ nav {
   margin: 5px 0;
 }
 
+/* ===== Контакты ===== */
+.contact-button {
+    background: linear-gradient(135deg, #e925e9 0%, #764ba2 100%);
+    color: white;
+    border: none;
+    padding: 15px 40px;
+    font-size: 16px;
+    border-radius: 30px;
+    cursor: pointer;
+    margin-top: 20px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.contact-info {
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  padding: 25px;
+  margin: 20px 0;
+  border-radius: 15px;
+  font-size: 18px;
+  color: #2c3e50;
+}
+
+.contacts-container {
+  text-align: center;
+}
 
 /* ===== ФУТЕР ===== */
 footer {
